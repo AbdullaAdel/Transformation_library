@@ -42,7 +42,7 @@ to c
 ### Transformation
 Transformation is a 3x3 matrix that stores the rotational information and the translational information of a given angel and vector. It can be used to transform a Poin2D object, which will result in a new coordinates after the transformation.
 
-to create a Transformation object, see the following line:
+to create a Transformation object, see the following line:  
 `T1 = Transformation({object=Rotation} , {object=Translation})`
 `
 ## requirements  
