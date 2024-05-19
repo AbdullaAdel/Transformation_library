@@ -35,7 +35,7 @@ To create a Translation object, write down the following line:
 
 ### Rotation
 
-Rotation is a 3x3 ndarray that requires an input of an angle in radiance. It contains the rotation information that can be used to rotate a point using the multiplication operator or to construct a transformation matrix as will be seen shortly.  
+Rotation is a 3x3 ndarray that requires an input of an angle in radiance. It contains the rotation information that can be used to rotate a point using the multiplication operator or to construct a transformation matrix as will be seen shortly.
 `
 ### Transformation
 Transformation is a 3x3 matrix that stores the rotational information and the translational information of a given angel and vector. It can be used to transform a Poin2D object, which will result in a new coordinates after the transformation.
@@ -45,8 +45,8 @@ to create a Transformation object, see the following line:
 `
 ## requirements  
 The package requires the use of the following libraries:  
-    - Numpy
-    - Matplotlib
+    - Numpy  
+    - Matplotlib  
 
 in case that you do not have the libraries, type in the terminal the following code:
 `pip install -r requirements.txt`
