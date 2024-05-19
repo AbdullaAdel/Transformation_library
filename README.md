@@ -53,6 +53,11 @@ The package requires the use of the following libraries:
 in case that you do not have the libraries, type in the terminal the following code:
 `pip install -r requirements.txt`
 
+## Run sample
+
+To run a code sample of the package, please type the following in the terminal:  
+`python3 Basic.py`
+
 ## test
 
 To test the code, simply enter the following code in the terminal:  
