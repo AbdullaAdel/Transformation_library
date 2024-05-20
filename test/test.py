@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import numpy as np
 from Transformation.point import Point2D
 from Transformation.translation import Translation
