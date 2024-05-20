@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import numpy as np
 from matplotlib import pyplot as plt
 from Transformation.point import Point2D
